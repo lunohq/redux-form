@@ -2,8 +2,6 @@
 *.iml
 coverage
 node_modules
-dist
-lib
 es
 npm-debug.log
 .DS_Store
